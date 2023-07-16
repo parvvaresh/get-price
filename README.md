@@ -20,7 +20,7 @@ git clone https://github.com/parvvaresh/get-price
 go to the folder of this repositori: 
 
 ```
-cd [get-price]
+cd get-price
 ```
 
 <h5>#step3 : </h5>
