@@ -67,6 +67,11 @@ After getting the information, you will face this page
 
 File named **price.csv** has been saved and you can open it by pandas
 
+for this example see this a data set:
+
+![image](https://github.com/parvvaresh/get-price/assets/89921883/5df376c7-120b-453a-965e-5a7a10a22bb5)
+
+
 
 -----------------------------
 
