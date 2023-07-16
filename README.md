@@ -13,14 +13,14 @@ To use this code in your system, you must follow the following 4 steps:
 clone this repositori by this command : 
 
 ```
-git clone [link]
+git clone https://github.com/parvvaresh/get-price
 ```
 
 <h5>#step2 : </h5>
 go to the folder of this repositori: 
 
 ```
-cd [folder name]
+cd [get-price]
 ```
 
 <h5>#step3 : </h5>
